@@ -52,6 +52,7 @@ dist/
 lib/
 vite.config.*.mjs
 .parcel-cache
+prunded/
 
 # IDE folder
 .idea
