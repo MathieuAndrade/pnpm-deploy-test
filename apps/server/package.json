@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mathieu Andrade",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@pnpm-test/logger": "workspace:^",
+    "@types/node": "^20.11.16",
+    "typescript": "^5.3.3"
+  }
+}

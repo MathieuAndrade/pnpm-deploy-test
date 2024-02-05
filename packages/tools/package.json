@@ -1,0 +1,11 @@
+{
+  "name": "@pnpm-test/tools",
+  "version": "1.0.0",
+  "description": "Tools",
+  "keywords": [],
+  "author": "Mathieu Andrade",
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": "*"
+  }
+}
